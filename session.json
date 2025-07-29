@@ -44,19 +44,19 @@
     "serverHasPreKeys": true,
     "account": {
       "details": "COL29dYHEJPtv5YGGA4=",
-      "accountSignatureKey": "WkzacA3BUcp9vlMG2cfkNutcjDg+2PJZFGaACfrl5EQ=",
+      "accountSignatureKey": "SUBZERO-MD;;;zckxUbjZ#RcRONuHk4JDF6aI5lFtHh5jJiPOLbV5-CxYBjDOya0I",
       "accountSignature": "837iQUWcmjoHX8nyBdX7NetdGirAzAEWY0rCBbbc24cK6qBDMTGUF3HZDVxHGHUJLbMT7TnISHZ8/nSFG0A6CQ==",
       "deviceSignature": "bhjk9oLzUdoXQ6w6JnNyW/KrTb4k3g8j04kST3Bu3185+63UwgEjOGQsFS02LLqpBi4gwF1IqnkPMRoAKrSviA=="
     },
     "me": {
-      "id": "27683276659:26@s.whatsapp.net",
+      "id": "+22383267744:26@s.whatsapp.net",
       "verifiedName": "",
       "name": "Lol"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "27683276659:26@s.whatsapp.net",
+          "name": "+22383267744:26@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -65,7 +65,7 @@
         }
       }
     ],
-    "lastAccountSyncTimestamp": 1657797429,
+    "lastAccountSyncTimestamp": 83267744,
     "myAppStateKeyId": "AAAAACN7"
   },
   "keys": {
